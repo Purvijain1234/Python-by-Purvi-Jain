@@ -8,7 +8,6 @@ Control flow determines **which lines of code run, how many times, and in what o
 4. while Loops
 5. break / continue / pass
 6. range() Usage
-7. List Comprehensions
 
 ---
 
@@ -22,4 +21,3 @@ Control flow determines **which lines of code run, how many times, and in what o
 | while loops | Use when the number of iterations is not known upfront; always update the condition |
 | break / continue / pass | `break` exits, `continue` skips, `pass` is a no-op placeholder |
 | range() | `stop` is exclusive; supports negative `step`; memory-efficient |
-| List comprehensions | `[expr for x in it if cond]` - concise but keep them readable |
