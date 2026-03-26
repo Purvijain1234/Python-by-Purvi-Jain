@@ -1,4 +1,4 @@
-# 🐍 1 — Python Basics
+# 🐍 1 - Python Basics
 This notebook covers all the foundational topics you need before moving on to control flow and data structures.
 
 **Topics covered:**
