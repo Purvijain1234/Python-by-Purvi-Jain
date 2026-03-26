@@ -6,8 +6,9 @@
 ---
 
 ## 📂 Repository Structure
-
+<p align="center">
 <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/183aa068-3384-4d8e-be48-9e03248b4334" />
+</p>
 
 ```
 Python-by-Purvi-Jain/
