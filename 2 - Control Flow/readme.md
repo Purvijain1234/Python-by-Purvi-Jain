@@ -17,7 +17,7 @@ Control flow determines **which lines of code run, how many times, and in what o
 | Topic | Key Takeaway |
 |-------|--------------|
 | if / elif / else | Python checks top-to-bottom and stops at the first `True` condition |
-| Nested conditions | Use guard clauses to flatten deep nesting — exit early on failures |
+| Nested conditions | Use guard clauses to flatten deep nesting - exit early on failures |
 | for loops | Iterates any iterable; pair with `enumerate()` for index+value, `zip()` for parallel loops |
 | while loops | Use when the number of iterations is not known upfront; always update the condition |
 | break / continue / pass | `break` exits, `continue` skips, `pass` is a no-op placeholder |
